@@ -13,8 +13,12 @@ will override old one when you upload patterns file.
 TODO
 ----
 
-*Enhance EasyBphp library (add json,pdo package)
-*Identificate uploader and manager
-*Classify Rule
-*Beatify Page
+* Enhance EasyBphp library (add json,pdo package)
+
+* Identificate uploader and manager
+
+* Classify Rule
+
+* Beatify Page
+
 
